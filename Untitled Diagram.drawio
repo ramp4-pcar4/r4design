@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-26T15:55:32.952Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.93 Safari/537.36 Vivaldi/2.8.1664.40" etag="puLj9giCHmISzH69eO-l" version="12.3.1" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-26T15:55:58.823Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.93 Safari/537.36 Vivaldi/2.8.1664.40" etag="z85poFlaBKFywR-7zq9X" version="12.3.1" type="github" pages="1">
   <diagram id="6OIJU_WMMMpKXvqXkIJ8" name="Page-1">
     <mxGraphModel dx="1662" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -64,9 +64,11 @@
         <mxCell id="f69RbL6vU4NUklGSDR2k-17" value="Legend module" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="90" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="f69RbL6vU4NUklGSDR2k-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f69RbL6vU4NUklGSDR2k-2" target="f69RbL6vU4NUklGSDR2k-23">
+        <mxCell id="f69RbL6vU4NUklGSDR2k-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f69RbL6vU4NUklGSDR2k-23" target="f69RbL6vU4NUklGSDR2k-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="340" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="440" y="340"/>
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="f69RbL6vU4NUklGSDR2k-23" value="Read parsed config" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
