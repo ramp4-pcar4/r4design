@@ -208,7 +208,7 @@ As a potential enhancement, the "slide-and-hide" behaviour will be implemented f
 
 Where there is no more space for a new panel, a pinned panel slides under the appbar on the left that only a sliver of it remains in view. The new panel is opened in the freed-up space.
 
-When the user hovers (or tabs) to the pinned panel, the panel slides out (and is interactive) and partitally covers the other opened panel. It slides back under the appbar when the cursor moves away.
+When the user hovers (or tabs) to the pinned panel, the panel slides out (and is interactive) and partially covers the other opened panel. It slides back under the appbar when the cursor moves away.
 
 #### On-map UI components
 
