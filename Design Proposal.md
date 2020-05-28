@@ -94,7 +94,7 @@ To avoid unnecessary logic in panel managements, all panels take up all the avai
 
 The modules that create panels will be able to specify min and/or max width of any panel; a panel can be also maximized to take up all space in the instance container (sort of like a large pop-up dialog).
 
-The half-grid of the current RAMP implementation won't be possible anymore. However, a grid can have the max width set to 50% of the conatiner creating a horizontal half-grid (when other panels are closed).
+The half-grid of the current RAMP implementation won't be possible anymore. However, a grid can have the max width set to 50% of the container creating a horizontal half-grid (when other panels are closed).
 
 ![](https://i.imgur.com/swEcib5.png)
 
@@ -102,7 +102,7 @@ The half-grid of the current RAMP implementation won't be possible anymore. Howe
 
 *Anecdotal supporting evidence:* Web pages on desktop usually* present information in a landscape layout which will leave more map visible with the horizontal half-grid than with vertical one.
 
-*Concerns:* Having all panels take the maximum height is going to waste a lot of space and create too much whitespace for extremely simple datasets that return minimal data. Additionally, some clients might find this setup restrictive.
+*Concerns:* Having all panels take the maximum height is going to waste a lot of space and create too much white space for extremely simple datasets that return minimal data. Additionally, some clients might find this setup restrictive.
 
 The main argument for full-height panel is layout control. Since R4MP is easily extensible by fixtures (modules), panels that are created by third-party code need to be managed in a predictable and consistent way. Letting panels be placed anywhere inside the container if liable to conflicts where panels overlap each other, and letting the panels be of arbitrary height, will create inconsistent layout where it's possible to have a tall panel, a (very) short panel, and another tall panel, creating a jagged bottom edge of the layer stack.
 
