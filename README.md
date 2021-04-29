@@ -1,4 +1,11 @@
-# Why?
+# Obsolete :'D
+
+With the release of the improved github discussions, all items in this repo have migrated to the [RAMP 4 Discussions List](https://github.com/ramp4-pcar4/ramp4-pcar4/discussions).
+
+
+*Orig content below*
+
+## Why?
 
 We want a place to track our design choices, and allow members not in the immediate discussions to review and chime in at a later date.
 
